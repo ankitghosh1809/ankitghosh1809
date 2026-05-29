@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7A21E&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ankit+Ghosh+👋;Java+%7C+Python+%7C+C+Developer;Building+real-world+projects+🚀;DSA+%7C+Arduino+%7C+OOP+enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F7A21E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ankit+Ghosh;Java+%7C+Python+%7C+C+Developer;Building+real-world+projects;DSA+%7C+Arduino+%7C+OOP+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -39,7 +39,7 @@
 
 ⚡ **Fun fact**
 
-I enjoy building projects that connect theory with real-world applications 🚀
+I enjoy building projects that connect theory with real-world applications
 
 ---
 
