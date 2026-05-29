@@ -69,13 +69,9 @@ I enjoy building projects that connect theory with real-world applications 🚀
 
 ---
 
-## 🐍 My Contributions, Getting Eaten:
+## 📈 GitHub Metrics:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitghosh1809/ankitghosh1809/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitghosh1809/ankitghosh1809/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ankitghosh1809/ankitghosh1809/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+![Metrics](https://metrics.lecoq.io/ankitghosh1809?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&config.timezone=Asia%2FKolkata&config.display=large)
 
 ---
 
