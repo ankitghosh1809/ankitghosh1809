@@ -57,9 +57,15 @@ I enjoy building projects that connect theory with real-world applications 🚀
 
 ## 📊 GitHub Stats:
 
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitghosh1809&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![GitHub Streak](https://streak-stats.demolab.com/?user=ankitghosh1809&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitghosh1809&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitghosh1809&theme=dark)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitghosh1809&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitghosh1809&theme=dark)
+
+---
+
+## 📈 Contribution Graph:
+
+[![Ankit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitghosh1809&theme=react-dark&hide_border=true&area=true)](https://github.com/ankitghosh1809)
 
 ---
 
