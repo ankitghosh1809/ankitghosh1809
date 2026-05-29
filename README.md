@@ -57,15 +57,9 @@ I enjoy building projects that connect theory with real-world applications 🚀
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=ankitghosh1809&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ankitghosh1809&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitghosh1809&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ankitghosh1809&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitghosh1809&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=ankitghosh1809&theme=dark&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitghosh1809&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
