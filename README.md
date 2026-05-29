@@ -1,4 +1,10 @@
-# 💫 About Me:
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7A21E&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ankit+Ghosh+👋;Java+%7C+Python+%7C+C+Developer;Building+real-world+projects+🚀;DSA+%7C+Arduino+%7C+OOP+enthusiast" alt="Typing SVG" />
+</div>
+
+---
+
+## 💫 About Me:
 
 🔭 **I've worked on**
 
@@ -63,9 +69,13 @@ I enjoy building projects that connect theory with real-world applications 🚀
 
 ---
 
-## 📈 Contribution Graph:
+## 🐍 My Contributions, Getting Eaten:
 
-[![Ankit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitghosh1809&theme=react-dark&hide_border=true&area=true)](https://github.com/ankitghosh1809)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitghosh1809/ankitghosh1809/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitghosh1809/ankitghosh1809/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ankitghosh1809/ankitghosh1809/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 ---
 
