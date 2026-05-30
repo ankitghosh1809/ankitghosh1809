@@ -1,40 +1,44 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F7A21E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ankit+Ghosh;Java+%7C+Python+%7C+C+Developer;Building+real-world+projects;DSA+%7C+Arduino+%7C+OOP+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3670A0&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Ankit+Ghosh;Python+Developer+%7C+Problem+Solver;Automating+ideas+into+reality;DSA+%7C+OOP+%7C+Arduino+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 💫 About Me:
 
+🐍 **Python is my go-to language** for scripting, automation, problem solving, and building tools. I enjoy using Python to turn ideas into working programs quickly and cleanly.
+
 🔭 **I've worked on**
 
-- An Arduino-based 360° Radar System with ultrasonic sensor & servo motor, featuring real-time object detection visualized using Processing and Java
-- A full-stack Student Management System in Core Java with dual Admin/Student portals using OOP principles
-- SkyTrail-Tours — a travel booking web app with Java backend and vanilla JS frontend (built for OOP coursework at NMIMS)
-- Op-Amp Threshold Simulation (HTML/JS), a CLI To-Do app in Python, and more
+- A CLI To-Do app in Python — task management from the terminal with clean OOP design
+- An Arduino-based 360° Radar System — real-time object detection visualized using Processing and Java
+- A full-stack Student Management System in Core Java with dual Admin/Student portals
+- SkyTrail-Tours — a travel booking web app built for OOP coursework at NMIMS
+- Op-Amp Threshold Simulation in HTML/JS
 
 👯 **I'm looking to collaborate on**
 
-- Java and Python-based projects
-- Beginner-friendly open-source contributions
-- Problem-solving and DSA-focused projects
+- Python scripting, automation, and utility tools
+- DSA problem-solving in Python
+- Beginner-friendly open-source Python projects
+- Java and web-based projects
 
 🤝 **I'm looking for help with**
 
-- Writing clean, scalable code
-- Improving problem-solving skills
+- Writing clean, Pythonic code
+- Improving problem-solving skills with Python
 - Understanding real-world software development practices
 
 🌱 **I'm currently learning**
 
-- Data Structures & Algorithms
-- Core Java and application development
-- Software engineering fundamentals
+- Data Structures & Algorithms in Python
+- Python scripting and automation
+- Core Java and software engineering fundamentals
 
 💬 **Ask me about**
 
-- C / Python fundamentals
-- Java projects & OOP design
+- Python fundamentals & scripting
+- C / Java projects
 - College tech projects & learning paths
 
 ⚡ **Fun fact**
@@ -52,12 +56,21 @@ I enjoy building projects that connect theory with real-world applications
 
 ## 💻 Tech Stack:
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Processing](https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white)
+
+---
+
+## 🐍 Python Focus:
+
+![PyPI](https://img.shields.io/badge/DSA%20in%20Python-Learning-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PyPI](https://img.shields.io/badge/Scripting%20%26%20Automation-Active-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PyPI](https://img.shields.io/badge/OOP%20in%20Python-Practicing-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PyPI](https://img.shields.io/badge/CLI%20Tools-Built-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 ---
 
