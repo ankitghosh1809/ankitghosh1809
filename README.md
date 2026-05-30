@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3670A0&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Ankit+Ghosh;Python+Developer+%7C+Problem+Solver;Automating+ideas+into+reality;DSA+%7C+OOP+%7C+Arduino+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F7A21E&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Ankit+Ghosh;Python+Developer+%7C+Problem+Solver;Automating+ideas+into+reality;DSA+%7C+OOP+%7C+Arduino+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,11 +10,11 @@
 
 🔭 **I've worked on**
 
-- A CLI To-Do app in Python — task management from the terminal with clean OOP design
-- An Arduino-based 360° Radar System — real-time object detection visualized using Processing and Java
-- A full-stack Student Management System in Core Java with dual Admin/Student portals
-- SkyTrail-Tours — a travel booking web app built for OOP coursework at NMIMS
-- Op-Amp Threshold Simulation in HTML/JS
+- A CLI To-Do Task Manager in Python — OOP-based terminal app with add, delete, complete, and list features
+- An Op-Amp Threshold Simulator — built with HTML/JS, inspired by a Python-first simulation approach
+- Python DSA practice — implementing sorting algorithms, linked lists, stacks, queues, and trees from scratch
+- An Arduino-based 360° Radar System — sensor data processed and visualized using Java and Processing
+- SkyTrail-Tours — travel booking web app with Java backend (Python port planned)
 
 👯 **I'm looking to collaborate on**
 
