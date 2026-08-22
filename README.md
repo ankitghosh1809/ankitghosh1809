@@ -1,27 +1,29 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F7A21E&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Ankit+Ghosh;Python+Developer+%7C+Problem+Solver;Automating+ideas+into+reality;DSA+%7C+OOP+%7C+Arduino+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F7A21E&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Ankit+Ghosh;Full-Stack+Python+Developer;Flask+%7C+PostgreSQL+%7C+Vanilla+JS;DSA+Enthusiast+%7C+Always+Building" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 💫 About Me:
 
-🐍 **Python is my go-to language** for scripting, automation, problem solving, and building tools. I enjoy using Python to turn ideas into working programs quickly and cleanly.
+🐍 **Python is my go-to language** — I use it to build full-stack web apps, automate workflows, and turn ideas into working systems quickly and cleanly.
+
+🎓 Computer Engineering (MBA Tech) student, always building and shipping something new.
 
 🔭 **I've worked on**
 
-- A CLI To-Do Task Manager in Python — OOP-based terminal app with add, delete, complete, and list features
-- An Op-Amp Threshold Simulator — built with HTML/JS, inspired by a Python-first simulation approach
-- Python DSA practice — implementing sorting algorithms, linked lists, stacks, queues, and trees from scratch
-- An Arduino-based 360° Radar System — sensor data processed and visualized using Java and Processing
-- SkyTrail-Tours — travel booking web app with Java backend (Python port planned)
+- [Hospital Appointment Scheduling System](https://github.com/ankitghosh1809/Hospital-Appointment-Scheduling-System) — Flask REST API with MVC architecture, PostgreSQL, automated email reminders, and a vanilla JS frontend
+- [InvenTrack](https://github.com/ankitghosh1809/inventrack-inventory-system) — Full-stack inventory system with real-time stock tracking, a Chart.js analytics dashboard, and a complete audit trail
+- [Bibliotheca](https://github.com/ankitghosh1809/bibliotheca-library-management) — Library management system with automated fine calculation and financial reporting
+- [Cafe POS](https://github.com/ankitghosh1809/cafe-pos) — Flask + SQLite point-of-sale system for order management, billing, and sales analytics
+- Python DSA practice — sorting algorithms, linked lists, stacks, queues, and trees, built from scratch
 
 👯 **I'm looking to collaborate on**
 
 - Python scripting, automation, and utility tools
 - DSA problem-solving in Python
 - Beginner-friendly open-source Python projects
-- Java and web-based projects
+- Full-stack web apps (Flask + SQL + JS)
 
 🤝 **I'm looking for help with**
 
@@ -32,13 +34,13 @@
 🌱 **I'm currently learning**
 
 - Data Structures & Algorithms in Python
-- Python scripting and automation
-- Core Java and software engineering fundamentals
+- Database design across PostgreSQL and MySQL
+- Building and deploying secure, production-ready Flask apps
 
 💬 **Ask me about**
 
 - Python fundamentals & scripting
-- C / Java projects
+- Flask + SQL full-stack projects
 - College tech projects & learning paths
 
 ⚡ **Fun fact**
@@ -57,20 +59,25 @@ I enjoy building projects that connect theory with real-world applications
 ## 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Processing](https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white)
 
 ---
 
 ## 🐍 Python Focus:
 
-![PyPI](https://img.shields.io/badge/DSA%20in%20Python-Learning-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![PyPI](https://img.shields.io/badge/Scripting%20%26%20Automation-Active-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![PyPI](https://img.shields.io/badge/OOP%20in%20Python-Practicing-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![PyPI](https://img.shields.io/badge/CLI%20Tools-Built-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PyPI](https://img.shields.io/badge/DSA%20in%20Python-Practicing-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PyPI](https://img.shields.io/badge/Flask%20Web%20Apps-Building-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PyPI](https://img.shields.io/badge/REST%20APIs-Building-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PyPI](https://img.shields.io/badge/SQL%20Databases-Learning-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 ---
 
