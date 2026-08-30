@@ -83,15 +83,43 @@ I enjoy building projects that connect theory with real-world applications
 
 ## 📊 GitHub Stats:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitghosh1809&theme=dark)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitghosh1809&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitghosh1809&theme=dark)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ankitghosh1809&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitghosh1809&layout=compact&theme=dark&hide_border=true&langs_count=8" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitghosh1809&theme=dark&hide_border=true" width="95%" />
+
+</div>
 
 ---
 
 ## 📈 GitHub Metrics:
 
-![Metrics](https://metrics.lecoq.io/ankitghosh1809?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&config.timezone=Asia%2FKolkata&config.display=large)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitghosh1809&theme=github-dark&hide_border=true&area=true" width="95%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitghosh1809&theme=dark&utcOffset=5.5" width="47%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankitghosh1809&theme=dark" width="47%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies & Achievements:
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ankitghosh1809&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&column=7" width="95%" />
+
+</div>
 
 ---
 
@@ -99,9 +127,19 @@ I enjoy building projects that connect theory with real-world applications
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=ankitghosh1809&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+
+<a href="https://github.com/ankitghosh1809/SIH_backend">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitghosh1809&repo=SIH_backend&theme=dark&hide_border=true&show_owner=true" />
+
+</a>
+
+</div>
 
 ---
 
