@@ -94,7 +94,7 @@
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/ankitghosh1809?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&config.timezone=Asia%2FKolkata&config.display=large" alt="GitHub Metrics"/>
+<img src="https://streak-stats.demolab.com/?user=ankitghosh1809&background=0D1117&border=F7A21E&stroke=F7A21E&ring=F7A21E&fire=F7A21E&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F7A21E&sideLabels=58A6FF&dates=8b949e&hide_border=true" alt="GitHub Streak Stats"/>
 
 </div>
 
@@ -108,11 +108,16 @@
 
 </div>
 
-<h2 align="center">🔝 Top Contributed Repo</h2>
+<h2 align="center">📌 Pinned Projects</h2>
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=ankitghosh1809&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+<a href="https://github.com/ankitghosh1809/Student_Managment_System">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ankitghosh1809&repo=Student_Managment_System&title_color=F7A21E&icon_color=58A6FF&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="Student_Managment_System repo card"/>
+</a>
+<a href="https://github.com/ankitghosh1809/SkyTrail-Tours">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ankitghosh1809&repo=SkyTrail-Tours&title_color=F7A21E&icon_color=58A6FF&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="SkyTrail-Tours repo card"/>
+</a>
 
 </div>
 
@@ -120,9 +125,7 @@
 
 <div align="center">
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ankitghosh1809&icon=0&color=2&pretty=true&label=Profile+Views" alt="visitor count"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=ankitghosh1809&color=F7A21E&style=for-the-badge&label=PROFILE+VIEWS" alt="visitor count"/>
 
 </div>
 
