@@ -1,102 +1,131 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:70a5fd&height=220&section=header&text=Hi%20there,%20I'm%20Ankit%20Ghosh%20👋&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=MBA%20Tech%20@%20NMIMS%20%7C%20Backend%20%26%20Quantum%20ML%20Builder&descAlignY=55&descSize=18&animation=fadeIn" alt="header banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3A2A1A,100:F7A21E&height=220&section=header&text=Ankit%20Ghosh&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Python%20Developer&descAlignY=58&descSize=18&descColor=F7A21E&animation=fadeIn" width="100%" alt="header banner"/>
 
-<a href="https://github.com/ankitghosh1809">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&width=600&height=50&lines=MBA+Tech+Student+@+NMIMS;Backend+%26+Database+Engineer;Building+SIH26139+-+Quantum+ML+for+Eye+Care;Currently+exploring+Vibe+Coding" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F7A21E&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Ankit+Ghosh;Full-Stack+Python+Developer;Flask+%7C+PostgreSQL+%7C+Vanilla+JS;DSA+Enthusiast+%7C+Always+Building" alt="Typing SVG" />
+
+</div>
+
+---
+
+<h2 align="center">💫 About Me:</h2>
+
+🐍 **Python is my go-to language** — I use it to build full-stack web apps, automate workflows, and turn ideas into working systems quickly and cleanly.
+
+🎓 Computer Engineering (MBA Tech) student, always building and shipping something new.
+
+**🔭 I've worked on**
+
+| Project | Stack | Highlight |
+|---|---|---|
+| **[Hospital Appointment Scheduling System](https://github.com/ankitghosh1809/Hospital-Appointment-Scheduling-System)** | Flask · PostgreSQL · Vanilla JS | MVC architecture, REST API, automated email reminders |
+| **[InvenTrack](https://github.com/ankitghosh1809/inventrack-inventory-system)** | Flask · PostgreSQL · Chart.js | Real-time stock tracking + full audit trail |
+| **[Bibliotheca](https://github.com/ankitghosh1809/bibliotheca-library-management)** | Flask · PostgreSQL | Automated fine calculation + financial reporting |
+| **[Cafe POS](https://github.com/ankitghosh1809/cafe-pos)** | Flask · SQLite | Order management, billing, sales analytics |
+
+*Alongside these, I practice Python DSA from scratch — sorting algorithms, linked lists, stacks, queues, and trees.*
+
+- 👯 **Looking to collaborate on:** Python scripting & automation · DSA problem-solving · beginner-friendly open-source Python projects · full-stack apps (Flask + SQL + JS)
+- 🤝 **Looking for help with:** writing clean, Pythonic code · sharpening problem-solving skills · real-world software development practices
+- 🌱 **Currently learning:** DSA in Python · database design across PostgreSQL & MySQL · deploying secure, production-ready Flask apps
+- 💬 **Ask me about:** Python fundamentals & scripting · Flask + SQL full-stack builds · college tech projects & learning paths
+- ⚡ **Fun fact:** I enjoy building projects that connect theory with real-world applications
+
+---
+
+<h2 align="center">🌐 Socials:</h2>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-ghosh-b43a84330)
+[![Email](https://img.shields.io/badge/Email-F7A21E?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:ankit.ghosh1648@gmail.com)
+
+</div>
+
+---
+
+<h2 align="center">💻 Tech Stack:</h2>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Processing](https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white)
+
+</div>
+
+---
+
+<h2 align="center">🐍 Python Focus:</h2>
+
+<div align="center">
+
+![DSA](https://img.shields.io/badge/DSA%20in%20Python-Practicing-F7A21E?style=for-the-badge&logo=python&logoColor=0D1117)
+![Flask Apps](https://img.shields.io/badge/Flask%20Web%20Apps-Building-F7A21E?style=for-the-badge&logo=python&logoColor=0D1117)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-Building-F7A21E?style=for-the-badge&logo=python&logoColor=0D1117)
+![SQL](https://img.shields.io/badge/SQL%20Databases-Learning-F7A21E?style=for-the-badge&logo=python&logoColor=0D1117)
+
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Stats:</h2>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitghosh1809&theme=dark" alt="profile details"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitghosh1809&theme=dark" alt="stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitghosh1809&theme=dark" alt="repos per language"/>
+
+</div>
+
+---
+
+<h2 align="center">📈 GitHub Metrics:</h2>
+
+<div align="center">
+
+<img src="https://metrics.lecoq.io/ankitghosh1809?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&config.timezone=Asia%2FKolkata&config.display=large" alt="GitHub Metrics"/>
+
+</div>
+
+---
+
+<h2 align="center">✍️ Random Dev Quote</h2>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=F7A21E&authorColor=58A6FF&backgroundColor=0D1117&symbolColor=F7A21E" alt="Random Dev Quote"/>
+
+</div>
+
+<h2 align="center">🔝 Top Contributed Repo</h2>
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=ankitghosh1809&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ankitghosh1809&icon=0&color=2&pretty=true&label=Profile+Views" alt="visitor count"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=ankitghosh1809&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
-
 </div>
 
 <br>
 
-<h2 align="center">🎓 About Me</h2>
-
-- 🎓 MBA Tech student (Semester 3) at **NMIMS** — pairing a management degree with real backend engineering
-- 🩺 Currently building the **backend & database track** for **SIH26139**, a hybrid quantum-ML platform for early detection of diabetic retinopathy and cataracts, built for Smart India Hackathon
-- ⚙️ Shipping a real, tested service — FastAPI + SQLAlchemy + PostgreSQL, not just a prototype
-- ✍️ Recently wrote about how "vibe coding" — natural-language programming — is changing how software gets built
-- 🔭 Curious where quantum computing actually earns its place in healthcare software, past the hype
-- 💬 Happy to talk backend architecture, FastAPI, or hackathon war stories
-
-<br>
-
-<h2 align="center">🩺 Currently Building</h2>
-
-<div align="center">
-
-**[SIH26139 — Hybrid Quantum ML Platform](https://github.com/ankitghosh1809/SIH_backend)**
-
-A Smart India Hackathon project (sponsored by Egreen Quanta) applying quantum-enhanced ML to early screening for diabetic retinopathy and cataracts. I own the backend & database track — scan ingestion, ML-inference hooks, and a clinician review workflow, built as a FastAPI + SQLAlchemy service with a passing pytest suite.
-
-<a href="https://github.com/ankitghosh1809/SIH_backend">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ankitghosh1809&repo=SIH_backend&theme=tokyonight&hide_border=true" alt="SIH_backend repo card"/>
-</a>
-
-</div>
-
-<br>
-
-<h2 align="center">✍️ Recent Writing</h2>
-
-<div align="center">
-
-📄 **[Vibe Coding: How Natural-Language Programming Is Reshaping Software Development](https://vibecoding-explained.blogspot.com/2026/08/vibe-coding-how-natural-language.html)**
-
-A look at what actually changes — and what doesn't — when you build software by describing it instead of typing every line.
-
-</div>
-
-<br>
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,sqlite,git,github,githubactions" alt="core stack icons"/>
-
-<br><br>
-
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.x-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-v2-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-passing-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI-2A308B?style=for-the-badge)
-![Neon](https://img.shields.io/badge/Neon-Postgres-00E599?style=for-the-badge&logo=neon&logoColor=white)
-![Render](https://img.shields.io/badge/Render-Deployed-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-</div>
-
-<br>
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=ankitghosh1809&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ankitghosh1809's GitHub stats"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ankitghosh1809&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com/?user=ankitghosh1809&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ankitghosh1809&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="trophies"/>
-
-</div>
-
-<br>
-
-<h2 align="center">🤝 Let's Connect</h2>
-
-<div align="center">
-
-[![Blog](https://img.shields.io/badge/Blog-vibecoding--explained-70A5FD?style=for-the-badge&logo=blogger&logoColor=white)](https://vibecoding-explained.blogspot.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-add--your--link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-add--your--email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-<br><br>
-
-*Thanks for stopping by — poke around SIH26139 or say hi 👋*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:70a5fd&height=120&section=footer" alt="footer banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7A21E,50:3A2A1A,100:0D1117&height=120&section=footer" width="100%" alt="footer banner"/>
