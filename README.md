@@ -77,6 +77,13 @@
 
 ---
 
+<h2 align="center">🕒 Recent Activity</h2>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 <h2 align="center">📊 GitHub Stats:</h2>
 
 <div align="center">
@@ -105,27 +112,6 @@
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=F7A21E&authorColor=58A6FF&backgroundColor=0D1117&symbolColor=F7A21E" alt="Random Dev Quote"/>
-
-</div>
-
-<h2 align="center">📌 Pinned Projects</h2>
-
-<div align="center">
-
-<a href="https://github.com/ankitghosh1809/Student_Managment_System">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ankitghosh1809&repo=Student_Managment_System&title_color=F7A21E&icon_color=58A6FF&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="Student_Managment_System repo card"/>
-</a>
-<a href="https://github.com/ankitghosh1809/SkyTrail-Tours">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ankitghosh1809&repo=SkyTrail-Tours&title_color=F7A21E&icon_color=58A6FF&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="SkyTrail-Tours repo card"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ankitghosh1809&color=F7A21E&style=for-the-badge&label=PROFILE+VIEWS" alt="visitor count"/>
 
 </div>
 
