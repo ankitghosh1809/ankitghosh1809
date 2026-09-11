@@ -80,11 +80,11 @@
 <h2 align="center">🕒 Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ankitghosh1809/SIH/pull/3) in [ankitghosh1809/SIH](https://github.com/ankitghosh1809/SIH)
-2. 💪 Opened PR [#3](https://github.com/ankitghosh1809/SIH/pull/3) in [ankitghosh1809/SIH](https://github.com/ankitghosh1809/SIH)
-3. 🎉 Merged PR [#2](https://github.com/ankitghosh1809/SIH/pull/2) in [ankitghosh1809/SIH](https://github.com/ankitghosh1809/SIH)
-4. 💪 Opened PR [#2](https://github.com/ankitghosh1809/SIH/pull/2) in [ankitghosh1809/SIH](https://github.com/ankitghosh1809/SIH)
-5. 🎉 Merged PR [#1](https://github.com/ankitghosh1809/SIH/pull/1) in [ankitghosh1809/SIH](https://github.com/ankitghosh1809/SIH)
+1. 🎉 Merged PR [#4](https://github.com/ankitghosh1809/SIH/pull/4) in [ankitghosh1809/SIH](https://github.com/ankitghosh1809/SIH)
+2. 💪 Opened PR [#4](https://github.com/ankitghosh1809/SIH/pull/4) in [ankitghosh1809/SIH](https://github.com/ankitghosh1809/SIH)
+3. 🎉 Merged PR [#3](https://github.com/ankitghosh1809/SIH/pull/3) in [ankitghosh1809/SIH](https://github.com/ankitghosh1809/SIH)
+4. 💪 Opened PR [#3](https://github.com/ankitghosh1809/SIH/pull/3) in [ankitghosh1809/SIH](https://github.com/ankitghosh1809/SIH)
+5. 🎉 Merged PR [#2](https://github.com/ankitghosh1809/SIH/pull/2) in [ankitghosh1809/SIH](https://github.com/ankitghosh1809/SIH)
 <!--END_SECTION:activity-->
 
 ---
