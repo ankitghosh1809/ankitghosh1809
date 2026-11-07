@@ -112,6 +112,16 @@
 
 ---
 
+<h2 align="center">🐟 My Koi:</h2>
+
+<div align="center">
+
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
+</div>
+
+---
+
 <h2 align="center">✍️ Random Dev Quote</h2>
 
 <div align="center">
